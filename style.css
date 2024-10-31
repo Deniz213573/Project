@@ -1,0 +1,111 @@
+header h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    color: rgb(105, 7, 143);
+    margin-bottom: 0px;
+}
+header{
+    background-image: url("Jojo2.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+   x
+}
+
+.headd{
+    text-align:left;
+    display: flex;
+    margin-bottom: 0px;
+}
+.Jonatan{
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    display: flex;
+    width: 50%;
+    height: 300px;
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Joseph{
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    display: flex;
+    width: 50%;
+    height: 300px;
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Jotaro{
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    display: flex;
+    width: 50%;
+    height: 450px;
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Josuke{
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    display: flex;
+    width: 50%;
+    height: 450px;
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Giorno{
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    display: flex;
+    width: 50%;
+    height: 450px;
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Jolyne{
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    display: flex;
+    width: 50%;
+    height: 450px;
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    float: right;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    
+}
+.f_right ul {
+    display: flex;
+    padding-left: 130px;
+    color: aliceblue;
+    padding-top:100px ;
+    
+}
+.f_left p{
+    
+    color: aliceblue;
+    padding-top: 30px;
+}
+.f_right p{
+    float: right;
+    font-size: 30px;
+    color: aliceblue;
+    padding-right: 1475px;
+    padding-bottom: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
